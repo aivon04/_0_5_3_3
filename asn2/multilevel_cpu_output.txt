@@ -1,0 +1,106 @@
+
+*****************************************************************
+*                           RR Algorithm                        *
+*****************************************************************
+
+The order of the processes selected by CPU in Ready Queue 2 is:
+Process[1]
+Process[2]
+Process[3]
+Process[4]
+Process[5]
+Process[6]
+Process[7]
+Process[8]
+Process[9]
+Process[10]
+Process[1]
+Process[3]
+Process[4]
+Process[5]
+Process[6]
+Process[8]
+Process[9]
+Process[4]
+Process[5]
+Process[8]
+Process[9]
+Process[4]
+Process[5]
+
+The turnaround time for process[1] is:49
+The turnaround time for process[2] is:5
+The turnaround time for process[3] is:41
+The turnaround time for process[4] is:81
+The turnaround time for process[5] is:78
+The turnaround time for process[6] is:40
+The turnaround time for process[7] is:3
+The turnaround time for process[8] is:53
+The turnaround time for process[9] is:53
+The turnaround time for process[10] is:1
+
+Total Time for queue 2 is:98.000000
+
+*****************************************************************
+*                          FCFS Algorithm                       *
+*****************************************************************
+
+The order of the processes selected by CPU in Ready Queue 1 is:
+Process[1]
+Process[2]
+Process[3]
+Process[4]
+Process[5]
+Process[6]
+Process[7]
+Process[8]
+Process[9]
+Process[10]
+
+Process [1]'s waiting time is 0
+Process [2]'s waiting time is 10
+Process [3]'s waiting time is 15
+Process [4]'s waiting time is 22
+Process [5]'s waiting time is 42
+Process [6]'s waiting time is 59
+Process [7]'s waiting time is 68
+Process [8]'s waiting time is 71
+Process [9]'s waiting time is 82
+Process [10]'s waiting time is 97
+
+The average waiting time for ready queue 1 is: 46.600000.
+
+*****************************************************************
+*                          SJF Algorithm                        *
+*****************************************************************
+
+The order of the processes selected by CPU in Ready Queue 3 is:
+Process[10]
+Process[7]
+Process[2]
+Process[3]
+Process[6]
+Process[1]
+Process[8]
+Process[9]
+Process[5]
+Process[4]
+
+Process [10]'s waiting time is 0
+Process [7]'s waiting time is 1
+Process [2]'s waiting time is 4
+Process [3]'s waiting time is 9
+Process [6]'s waiting time is 16
+Process [1]'s waiting time is 25
+Process [8]'s waiting time is 35
+Process [9]'s waiting time is 46
+Process [5]'s waiting time is 61
+Process [4]'s waiting time is 78
+
+The average waiting time for ready queue 3 is: 27.500000.
+
+*****************************************************************
+*                 Total time for all 3 Algorithms               *
+*****************************************************************
+
+Total time taken to process all three queues is: 294.000000.

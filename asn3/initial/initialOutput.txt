@@ -1,0 +1,100 @@
+Child pid 3278 called, this is the #1 loop
+Child pid 3277 called, this is the #1 loop
+Child pid 3279 called, this is the #1 loop
+Child pid 3279 called, this is the #2 loop
+Child pid 3279 called, this is the #3 loop
+Child pid 3276 called, this is the #1 loop
+Child pid 3276 called, this is the #2 loop
+Child pid 3276 called, this is the #3 loop
+Child pid 3276 called, this is the #4 loop
+Child pid 3276 called, this is the #5 loop
+Child pid 3276 called, this is the #6 loop
+Child pid 3280 called, this is the #1 loop
+Child pid 3280 called, this is the #2 loop
+Child pid 3280 called, this is the #3 loop
+Child pid 3280 called, this is the #4 loop
+Child pid 3280 called, this is the #5 loop
+Child pid 3280 called, this is the #6 loop
+Child pid 3280 called, this is the #7 loop
+Child pid 3275 called, this is the #1 loop
+Child pid 3275 called, this is the #2 loop
+Child pid 3281 called, this is the #1 loop
+Child pid 3278 called, this is the #2 loop
+Child pid 3277 called, this is the #2 loop
+Child pid 3279 called, this is the #4 loop
+Child pid 3277 called, this is the #3 loop
+Child pid 3277 called, this is the #4 loop
+Child pid 3277 called, this is the #5 loop
+Child pid 3277 called, this is the #6 loop
+Child pid 3277 called, this is the #7 loop
+Child pid 3277 called, this is the #8 loop
+Child pid 3276 called, this is the #7 loop
+Child pid 3277 called, this is the #9 loop
+Child pid 3277 called, this is the #10 loop
+returning to caller process 3277
+Child pid 3280 called, this is the #8 loop
+Child pid 3278 called, this is the #3 loop
+Child pid 3279 called, this is the #5 loop
+Child pid 3279 called, this is the #6 loop
+Child pid 3279 called, this is the #7 loop
+Child pid 3279 called, this is the #8 loop
+Child pid 3279 called, this is the #9 loop
+Child pid 3279 called, this is the #10 loop
+returning to caller process 3279
+Child pid 3276 called, this is the #8 loop
+Child pid 3276 called, this is the #9 loop
+Child pid 3276 called, this is the #10 loop
+returning to caller process 3276
+Child pid 3275 called, this is the #3 loop
+Child pid 3281 called, this is the #2 loop
+Child pid 3281 called, this is the #3 loop
+Child pid 3281 called, this is the #4 loop
+Child pid 3281 called, this is the #5 loop
+Child pid 3281 called, this is the #6 loop
+Child pid 3281 called, this is the #7 loop
+Child pid 3281 called, this is the #8 loop
+Child pid 3281 called, this is the #9 loop
+Child pid 3281 called, this is the #10 loop
+returning to caller process 3281
+Child pid 3274 called, this is the #1 loop
+Child pid 3278 called, this is the #4 loop
+Child pid 3278 called, this is the #5 loop
+Child pid 3278 called, this is the #6 loop
+Child pid 3278 called, this is the #7 loop
+Child pid 3278 called, this is the #8 loop
+Child pid 3278 called, this is the #9 loop
+Child pid 3278 called, this is the #10 loop
+returning to caller process 3278
+Child pid 3280 called, this is the #9 loop
+Child pid 3275 called, this is the #4 loop
+Child pid 3275 called, this is the #5 loop
+Child pid 3280 called, this is the #10 loop
+Child pid 3275 called, this is the #6 loop
+returning to caller process 3280
+Child pid 3275 called, this is the #7 loop
+Child pid 3275 called, this is the #8 loop
+Child pid 3275 called, this is the #9 loop
+Child pid 3275 called, this is the #10 loop
+returning to caller process 3275
+Child pid 3274 called, this is the #2 loop
+Child pid 3274 called, this is the #3 loop
+Child pid 3274 called, this is the #4 loop
+Child pid 3274 called, this is the #5 loop
+Child pid 3274 called, this is the #6 loop
+Child pid 3274 called, this is the #7 loop
+Child pid 3274 called, this is the #8 loop
+Child pid 3274 called, this is the #9 loop
+Child pid 3274 called, this is the #10 loop
+returning to caller process 3274
+Child pid 3273 called, this is the #1 loop
+Child pid 3273 called, this is the #2 loop
+Child pid 3273 called, this is the #3 loop
+Child pid 3273 called, this is the #4 loop
+Child pid 3273 called, this is the #5 loop
+Child pid 3273 called, this is the #6 loop
+Child pid 3273 called, this is the #7 loop
+Child pid 3273 called, this is the #8 loop
+Child pid 3273 called, this is the #9 loop
+Child pid 3273 called, this is the #10 loop
+returning to caller process 3273
+
